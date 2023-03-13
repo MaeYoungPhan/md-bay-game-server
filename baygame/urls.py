@@ -17,11 +17,12 @@ from django.contrib import admin
 from django.conf.urls import include
 from django.urls import path
 from rest_framework import routers
-from baygameapi.views import register_user, login_user, RiverAndStreamView, OccasionView
+from baygameapi.views import register_user, login_user, RiverAndStreamView, OccasionView, BayItemView
 
 router = routers.DefaultRouter(trailing_slash=False)
 router.register(r'riverandstreams', RiverAndStreamView, 'riverandstreams') #set up url, tell server which view to use when it sees that url, and assign a base name in case of error
 router.register(r'occasions', OccasionView, 'occasions')
+router.register(r'bayitems', BayItemView, 'bayitems')
 
 urlpatterns = [
     path('register', register_user),

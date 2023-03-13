@@ -45,7 +45,7 @@ class BayItemView(ViewSet):
         return Response(serializer.data, status=status.HTTP_200_OK) #Constructs response and returns data requested by the client in the response body as an array of JSON stringified objects
 
     @action(methods=['post'], detail=True)
-    def found(self, request, pk):
+    def find(self, request, pk):
         """Post request for a user to sign up for an event"""
 
         gamer = Gamer.objects.get(user=request.auth.user)
@@ -62,17 +62,10 @@ class BayItemView(ViewSet):
         bay_item.gamers.remove(gamer)
         return Response(None, status=status.HTTP_204_NO_CONTENT)
 
-class GamerSerializer(serializers.ModelSerializer):
-
-    class Meta:
-        model = Gamer
-        fields = ('id', 'username',)
-
 class BayItemSerializer(serializers.ModelSerializer):
     """JSON serializer for events"""
-    # Converts meta data requested to JSON stringified object using Event as model
-    gamer = GamerSerializer(many=False)
+    # Converts meta data requested to JSON stringified object using BayItem as model
 
     class Meta: # configuration for serializer
         model = BayItem # model to use
-        fields = ('id', 'name', 'default_img', 'found_img', 'gamers', 'joined') # fields to include
+        fields = ('id', 'name', 'default_img', 'found_img', 'gamers', 'found') # fields to include

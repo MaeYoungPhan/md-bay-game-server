@@ -7,9 +7,9 @@ class BayItem(models.Model):
     gamers = models.ManyToManyField("Gamer", through="FoundItem", related_name='gamers_who_found_item')
 
     @property
-    def find(self):
-        return self.__find
+    def found(self):
+        return self.__found
 
-    @find.setter
-    def find(self, value):
-        self.__find = value
+    @found.setter
+    def found(self, value):
+        self.__found = value
