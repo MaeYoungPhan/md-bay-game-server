@@ -1,0 +1,134 @@
+[
+    {
+        "model": "baygameapi.recordoftrip",
+        "pk": 1,
+        "fields": {
+            "gamer": 1,
+            "date": "2023-05-07",
+            "name": "Beach Trip",
+            "number_found": 10,
+            "occasion": 2
+        }
+    },
+    {
+        "model": "baygameapi.recordoftrip",
+        "pk": 2,
+        "fields": {
+            "gamer": 2,
+            "date": "2023-05-07",
+            "name": "Beach Trip",
+            "number_found": 10,
+            "occasion": 2
+        }
+    },
+    {
+        "model": "baygameapi.recordoftrip",
+        "pk": 3,
+        "fields": {
+            "gamer": 3,
+            "date": "2023-05-07",
+            "name": "Beach Trip",
+            "number_found": 10,
+            "occasion": 2
+        }
+    },
+        {
+        "model": "baygameapi.recordoftrip",
+        "pk": 4,
+        "fields": {
+            "gamer": 4,
+            "date": "2023-05-07",
+            "name": "Beach Trip",
+            "number_found": 10,
+            "occasion": 2
+        }
+    },
+    {
+        "model": "baygameapi.recordoftrip",
+        "pk": 5,
+        "fields": {
+            "gamer": 5,
+            "date": "2023-05-07",
+            "name": "Beach Trip",
+            "number_found": 10,
+            "occasion": 2
+        }
+    },
+    {
+        "model": "baygameapi.recordoftrip",
+        "pk": 6,
+        "fields": {
+            "gamer": 6,
+            "date": "2023-05-07",
+            "name": "Beach Trip",
+            "number_found": 10,
+            "occasion": 2
+        }
+    },
+    {
+        "model": "baygameapi.recordoftrip",
+        "pk": 7,
+        "fields": {
+            "gamer": 7,
+            "date": "2023-05-07",
+            "name": "Beach Trip",
+            "number_found": 10,
+            "occasion": 2
+        }
+    },
+    {
+        "model": "baygameapi.recordoftrip",
+        "pk": 8,
+        "fields": {
+            "gamer": 6,
+            "date": "2023-07-07",
+            "name": "Family Vacation",
+            "number_found": 15,
+            "occasion": 1
+        }
+    },
+    {
+        "model": "baygameapi.recordoftrip",
+        "pk": 9,
+        "fields": {
+            "gamer": 6,
+            "date": "2023-06-22",
+            "name": "Bay Day",
+            "number_found": 9,
+            "occasion": 8
+        }
+    },
+    {
+        "model": "baygameapi.recordoftrip",
+        "pk": 10,
+        "fields": {
+            "gamer": 7,
+            "date": "2023-03-22",
+            "name": "Science Class Trip",
+            "number_found": 8,
+            "occasion": 4
+        }
+    },
+    {
+        "model": "baygameapi.recordoftrip",
+        "pk": 11,
+        "fields": {
+            "gamer": 7,
+            "date": "2023-08-10",
+            "name": "Assateague Island",
+            "number_found": 10,
+            "occasion": 10
+        }
+    },
+    {
+        "model": "baygameapi.recordoftrip",
+        "pk": 12,
+        "fields": {
+            "gamer": 6,
+            "date": "2023-07-21",
+            "name": "Home",
+            "number_found": 13,
+            "occasion": 12
+        }
+    }
+]

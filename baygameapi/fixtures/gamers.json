@@ -1,0 +1,58 @@
+[
+    {
+    "model": "baygameapi.gamer",
+    "pk": 1,
+    "fields": {
+        "user": 1
+    }
+    },
+    {
+        "model": "baygameapi.gamer",
+        "pk": 2,
+        "fields": {
+        "user": 2
+    }
+    },
+    {
+        "model": "baygameapi.gamer",
+        "pk": 3,
+        "fields": {
+        "user": 3
+    }
+    },
+    {
+        "model": "baygameapi.gamer",
+        "pk": 4,
+        "fields": {
+        "user": 4
+    }
+    },
+    {
+        "model": "baygameapi.gamer",
+        "pk": 5,
+        "fields": {
+        "user": 5
+    }
+    },
+    {
+        "model": "baygameapi.gamer",
+        "pk": 6,
+        "fields": {
+        "user": 6
+    }
+    },
+    {
+        "model": "baygameapi.gamer",
+        "pk": 7,
+        "fields": {
+        "user": 7
+    }
+    },
+    {
+        "model": "baygameapi.gamer",
+        "pk": 8,
+        "fields": {
+        "user": 8
+    }
+    }
+]

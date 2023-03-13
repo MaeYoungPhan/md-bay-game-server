@@ -1,0 +1,98 @@
+[
+    {
+        "model": "baygameapi.occasion",
+        "pk": 1,
+        "fields": {
+            "name": "Vacation",
+            "emoji": "🏖"
+        }
+    },
+    {
+        "model": "baygameapi.occasion",
+        "pk": 2,
+        "fields": {
+            "name": "Day Trip",
+            "emoji": "🌊"
+        }
+    },
+    {
+        "model": "baygameapi.occasion",
+        "pk": 3,
+        "fields": {
+            "name": "Wedding",
+            "emoji": "💒"
+        }
+    },
+    {
+        "model": "baygameapi.occasion",
+        "pk": 4,
+        "fields": {
+            "name": "Field Trip",
+            "emoji": "🚌"
+        }
+    },
+    {
+        "model": "baygameapi.occasion",
+        "pk": 5,
+        "fields": {
+            "name": "Business",
+            "emoji": "💼"
+        }
+    },
+    {
+        "model": "baygameapi.occasion",
+        "pk": 6,
+        "fields": {
+            "name": "Fishing",
+            "emoji": "🎣"
+        }
+    },
+    {
+        "model": "baygameapi.occasion",
+        "pk": 7,
+        "fields": {
+            "name": "Crabbing",
+            "emoji": "🦀"
+        }
+    },
+    {
+        "model": "baygameapi.occasion",
+        "pk": 8,
+        "fields": {
+            "name": "Volunteering",
+            "emoji": "🌳"
+        }
+    },
+    {
+        "model": "baygameapi.occasion",
+        "pk": 9,
+        "fields": {
+            "name": "Party",
+            "emoji": "🎉"
+        }
+    },
+    {
+        "model": "baygameapi.occasion",
+        "pk": 10,
+        "fields": {
+            "name": "Camping",
+            "emoji": "🏕"
+        }
+    },
+    {
+        "model": "baygameapi.occasion",
+        "pk": 11,
+        "fields": {
+            "name": "Boating",
+            "emoji": "⚓️"
+        }
+    },
+    {
+        "model": "baygameapi.occasion",
+        "pk": 12,
+        "fields": {
+            "name": "Going Home",
+            "emoji": "🏡"
+        }
+    }
+]

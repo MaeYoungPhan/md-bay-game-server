@@ -1,0 +1,218 @@
+[
+    {
+        "model": "baygameapi.bayitem",
+        "pk": 1,
+        "fields": {
+            "name": "Recycling Center",
+            "default_img": "https://res.cloudinary.com/dungnytvx/image/upload/v1678677501/01-RecycleBin_nkejxg.png",
+            "found_img": "https://res.cloudinary.com/dungnytvx/image/upload/v1678679250/01-RecyclingColor_vsc6iw.png"
+        }
+    },
+    {
+        "model": "baygameapi.bayitem",
+        "pk": 2,
+        "fields": {
+            "name": "Crab",
+            "default_img": "https://res.cloudinary.com/dungnytvx/image/upload/v1678677501/02-Crab_sjl75v.png",
+            "found_img": "https://res.cloudinary.com/dungnytvx/image/upload/v1678679250/02-CrabColor_hzxczi.png"
+        }
+    },
+    {
+        "model": "baygameapi.bayitem",
+        "pk": 3,
+        "fields": {
+            "name": "Snag (Dead) Tree",
+            "default_img": "https://res.cloudinary.com/dungnytvx/image/upload/v1678677501/03-DeadTree_z2tvgy.png",
+            "found_img": "https://res.cloudinary.com/dungnytvx/image/upload/v1678679251/03-DeadTreeColor_qycbtk.png"
+        }
+    },
+    {
+        "model": "baygameapi.bayitem",
+        "pk": 4,
+        "fields": {
+            "name": "Bay License Plate",
+            "default_img": "https://res.cloudinary.com/dungnytvx/image/upload/v1678677501/04-BayPlate_gqj5jh.png",
+            "found_img": "https://res.cloudinary.com/dungnytvx/image/upload/v1678679251/04-BayPlateColor_djytrw.png"
+        }
+    },
+    {
+        "model": "baygameapi.bayitem",
+        "pk": 5,
+        "fields": {
+            "name": "Produce Stand",
+            "default_img": "https://res.cloudinary.com/dungnytvx/image/upload/v1678677501/05-ProduceStand_vg8yv0.png",
+            "found_img": "https://res.cloudinary.com/dungnytvx/image/upload/v1678679251/05-ProduceStandColor_dmxi40.png"
+        }
+    },
+    {
+        "model": "baygameapi.bayitem",
+        "pk": 6,
+        "fields": {
+            "name": "Silo",
+            "default_img": "https://res.cloudinary.com/dungnytvx/image/upload/v1678677501/06-Silo_rqlsbk.png",
+            "found_img": "https://res.cloudinary.com/dungnytvx/image/upload/v1678679251/06-SiloColor_s9p1yh.png"
+        }
+    },
+    {
+        "model": "baygameapi.bayitem",
+        "pk": 1,
+        "fields": {
+            "name": "Recycling Center",
+            "default_img": "https://res.cloudinary.com/dungnytvx/image/upload/v1678677501/01-RecycleBin_nkejxg.png",
+            "found_img": "https://res.cloudinary.com/dungnytvx/image/upload/v1678679250/01-RecyclingColor_vsc6iw.png"
+        }
+    },
+    {
+        "model": "baygameapi.bayitem",
+        "pk": 1,
+        "fields": {
+            "name": "Recycling Center",
+            "default_img": "https://res.cloudinary.com/dungnytvx/image/upload/v1678677501/01-RecycleBin_nkejxg.png",
+            "found_img": "https://res.cloudinary.com/dungnytvx/image/upload/v1678679250/01-RecyclingColor_vsc6iw.png"
+        }
+    },
+    {
+        "model": "baygameapi.bayitem",
+        "pk": 1,
+        "fields": {
+            "name": "Recycling Center",
+            "default_img": "https://res.cloudinary.com/dungnytvx/image/upload/v1678677501/01-RecycleBin_nkejxg.png",
+            "found_img": "https://res.cloudinary.com/dungnytvx/image/upload/v1678679250/01-RecyclingColor_vsc6iw.png"
+        }
+    },
+    {
+        "model": "baygameapi.bayitem",
+        "pk": 1,
+        "fields": {
+            "name": "Recycling Center",
+            "default_img": "https://res.cloudinary.com/dungnytvx/image/upload/v1678677501/01-RecycleBin_nkejxg.png",
+            "found_img": "https://res.cloudinary.com/dungnytvx/image/upload/v1678679250/01-RecyclingColor_vsc6iw.png"
+        }
+    },
+    {
+        "model": "baygameapi.bayitem",
+        "pk": 1,
+        "fields": {
+            "name": "Recycling Center",
+            "default_img": "https://res.cloudinary.com/dungnytvx/image/upload/v1678677501/01-RecycleBin_nkejxg.png",
+            "found_img": "https://res.cloudinary.com/dungnytvx/image/upload/v1678679250/01-RecyclingColor_vsc6iw.png"
+        }
+    },
+    {
+        "model": "baygameapi.bayitem",
+        "pk": 1,
+        "fields": {
+            "name": "Recycling Center",
+            "default_img": "https://res.cloudinary.com/dungnytvx/image/upload/v1678677501/01-RecycleBin_nkejxg.png",
+            "found_img": "https://res.cloudinary.com/dungnytvx/image/upload/v1678679250/01-RecyclingColor_vsc6iw.png"
+        }
+    },
+    {
+        "model": "baygameapi.bayitem",
+        "pk": 1,
+        "fields": {
+            "name": "Recycling Center",
+            "default_img": "https://res.cloudinary.com/dungnytvx/image/upload/v1678677501/01-RecycleBin_nkejxg.png",
+            "found_img": "https://res.cloudinary.com/dungnytvx/image/upload/v1678679250/01-RecyclingColor_vsc6iw.png"
+        }
+    },
+    {
+        "model": "baygameapi.bayitem",
+        "pk": 1,
+        "fields": {
+            "name": "Recycling Center",
+            "default_img": "https://res.cloudinary.com/dungnytvx/image/upload/v1678677501/01-RecycleBin_nkejxg.png",
+            "found_img": "https://res.cloudinary.com/dungnytvx/image/upload/v1678679250/01-RecyclingColor_vsc6iw.png"
+        }
+    },
+    {
+        "model": "baygameapi.bayitem",
+        "pk": 1,
+        "fields": {
+            "name": "Recycling Center",
+            "default_img": "https://res.cloudinary.com/dungnytvx/image/upload/v1678677501/01-RecycleBin_nkejxg.png",
+            "found_img": "https://res.cloudinary.com/dungnytvx/image/upload/v1678679250/01-RecyclingColor_vsc6iw.png"
+        }
+    },
+    {
+        "model": "baygameapi.bayitem",
+        "pk": 1,
+        "fields": {
+            "name": "Recycling Center",
+            "default_img": "https://res.cloudinary.com/dungnytvx/image/upload/v1678677501/01-RecycleBin_nkejxg.png",
+            "found_img": "https://res.cloudinary.com/dungnytvx/image/upload/v1678679250/01-RecyclingColor_vsc6iw.png"
+        }
+    },
+    {
+        "model": "baygameapi.bayitem",
+        "pk": 1,
+        "fields": {
+            "name": "Recycling Center",
+            "default_img": "https://res.cloudinary.com/dungnytvx/image/upload/v1678677501/01-RecycleBin_nkejxg.png",
+            "found_img": "https://res.cloudinary.com/dungnytvx/image/upload/v1678679250/01-RecyclingColor_vsc6iw.png"
+        }
+    },
+    {
+        "model": "baygameapi.bayitem",
+        "pk": 1,
+        "fields": {
+            "name": "Recycling Center",
+            "default_img": "https://res.cloudinary.com/dungnytvx/image/upload/v1678677501/01-RecycleBin_nkejxg.png",
+            "found_img": "https://res.cloudinary.com/dungnytvx/image/upload/v1678679250/01-RecyclingColor_vsc6iw.png"
+        }
+    },
+    {
+        "model": "baygameapi.bayitem",
+        "pk": 1,
+        "fields": {
+            "name": "Recycling Center",
+            "default_img": "https://res.cloudinary.com/dungnytvx/image/upload/v1678677501/01-RecycleBin_nkejxg.png",
+            "found_img": "https://res.cloudinary.com/dungnytvx/image/upload/v1678679250/01-RecyclingColor_vsc6iw.png"
+        }
+    },
+    {
+        "model": "baygameapi.bayitem",
+        "pk": 1,
+        "fields": {
+            "name": "Recycling Center",
+            "default_img": "https://res.cloudinary.com/dungnytvx/image/upload/v1678677501/01-RecycleBin_nkejxg.png",
+            "found_img": "https://res.cloudinary.com/dungnytvx/image/upload/v1678679250/01-RecyclingColor_vsc6iw.png"
+        }
+    },
+    {
+        "model": "baygameapi.bayitem",
+        "pk": 1,
+        "fields": {
+            "name": "Recycling Center",
+            "default_img": "https://res.cloudinary.com/dungnytvx/image/upload/v1678677501/01-RecycleBin_nkejxg.png",
+            "found_img": "https://res.cloudinary.com/dungnytvx/image/upload/v1678679250/01-RecyclingColor_vsc6iw.png"
+        }
+    },
+    {
+        "model": "baygameapi.bayitem",
+        "pk": 1,
+        "fields": {
+            "name": "Recycling Center",
+            "default_img": "https://res.cloudinary.com/dungnytvx/image/upload/v1678677501/01-RecycleBin_nkejxg.png",
+            "found_img": "https://res.cloudinary.com/dungnytvx/image/upload/v1678679250/01-RecyclingColor_vsc6iw.png"
+        }
+    },
+    {
+        "model": "baygameapi.bayitem",
+        "pk": 1,
+        "fields": {
+            "name": "Recycling Center",
+            "default_img": "https://res.cloudinary.com/dungnytvx/image/upload/v1678677501/01-RecycleBin_nkejxg.png",
+            "found_img": "https://res.cloudinary.com/dungnytvx/image/upload/v1678679250/01-RecyclingColor_vsc6iw.png"
+        }
+    },
+    {
+        "model": "baygameapi.bayitem",
+        "pk": 1,
+        "fields": {
+            "name": "Recycling Center",
+            "default_img": "https://res.cloudinary.com/dungnytvx/image/upload/v1678677501/01-RecycleBin_nkejxg.png",
+            "found_img": "https://res.cloudinary.com/dungnytvx/image/upload/v1678679250/01-RecyclingColor_vsc6iw.png"
+        }
+    }
+]
