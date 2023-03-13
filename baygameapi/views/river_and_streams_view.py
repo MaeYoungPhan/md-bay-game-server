@@ -20,7 +20,7 @@ class RiverAndStreamView(ViewSet):
         except RiverAndStream.DoesNotExist:
             return Response(status=status.HTTP_404_NOT_FOUND)
 
-        serializer = RiverAndStreamSerializer(water) #passes the instance stored in game_type through serializer to become a JSON stringified object and assigns it to serializer variable
+        serializer = RiverAndStreamSerializer(water) #passes the instance stored in water through serializer to become a JSON stringified object and assigns it to serializer variable
 
         return Response(serializer.data, status=status.HTTP_200_OK) # returns serializer data to the client as a response. Response body is JSON stringified object of requested data.
 

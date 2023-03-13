@@ -7,7 +7,23 @@ from baygameapi.models import Occasion
 
 
 class OccasionView(ViewSet):
-    """Bay Game River and Streams view"""
+    """Bay Game Occasions view"""
+
+    def retrieve(self, request, pk):
+        """Handle GET requests for single occasion
+        Returns:
+            Response -- JSON serialized occasion
+        """
+        try:
+            occasion = Occasion.objects.get(pk=pk) #make connection with server to return single query set where the primary key matches the pk requested by the client and assigns the object instance found to the game_type variable
+
+        except Occasion.DoesNotExist:
+            return Response(status=status.HTTP_404_NOT_FOUND)
+
+        serializer = OccasionSerializer(occasion) #passes the instance stored in occasion through serializer to become a JSON stringified object and assigns it to serializer variable
+
+        return Response(serializer.data, status=status.HTTP_200_OK) # returns serializer data to the client as a response. Response body is JSON stringified object of requested data.
+
 
     def list(self, request):
         """Handle GET requests to get all occasions
