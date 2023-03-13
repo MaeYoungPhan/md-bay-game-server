@@ -47,12 +47,5 @@
         "fields": {
         "user": 7
     }
-    },
-    {
-        "model": "baygameapi.gamer",
-        "pk": 8,
-        "fields": {
-        "user": 8
-    }
     }
 ]
