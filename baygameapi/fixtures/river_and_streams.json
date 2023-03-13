@@ -1,0 +1,82 @@
+[
+    {
+        "model": "baygameapi.riverandstream",
+        "pk": 1,
+        "fields": {
+            "name": "Cox Creek",
+            "miles_to_bay": 5.3
+        }
+    },
+    {
+        "model": "baygameapi.riverandstream",
+        "pk": 2,
+        "fields": {
+            "name": "Piney Creek",
+            "miles_to_bay": 4.7
+        }
+    },
+    {
+        "model": "baygameapi.riverandstream",
+        "pk": 3,
+        "fields": {
+            "name": "Kent Narrows",
+            "miles_to_bay": 4.8
+        }
+    },
+    {
+        "model": "baygameapi.riverandstream",
+        "pk": 4,
+        "fields": {
+            "name": "Skipton Creek",
+            "miles_to_bay": 20.1
+        }
+    },
+    {
+        "model": "baygameapi.riverandstream",
+        "pk": 5,
+        "fields": {
+            "name": "Choptank River",
+            "miles_to_bay": 14.1
+        }
+    },
+    {
+        "model": "baygameapi.riverandstream",
+        "pk": 6,
+        "fields": {
+            "name": "Chicamacomico River",
+            "miles_to_bay": 43.2
+        }
+    },
+    {
+        "model": "baygameapi.riverandstream",
+        "pk": 7,
+        "fields": {
+            "name": "Naticoke River",
+            "miles_to_bay": 23.3
+        }
+    },
+    {
+        "model": "baygameapi.riverandstream",
+        "pk": 8,
+        "fields": {
+            "name": "Barren Creek",
+            "miles_to_bay": 22.5
+        }
+    },
+    {
+        "model": "baygameapi.riverandstream",
+        "pk": 9,
+        "fields": {
+            "name": "Wicomico River",
+            "miles_to_bay": 30.8
+        }
+    },
+    {
+        "model": "baygameapi.riverandstream",
+        "pk": 10,
+        "fields": {
+            "name": "Pocomoke River",
+            "miles_to_bay": 56.7
+        }
+    }
+]
