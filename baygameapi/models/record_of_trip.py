@@ -6,3 +6,11 @@ class RecordOfTrip(models.Model):
     name = models.CharField(max_length=55)
     occasion = models.ForeignKey('Occasion', on_delete=models.DO_NOTHING)
     number_found = models.IntegerField()
+
+    @property
+    def author(self):
+        return self.__author
+
+    @author.setter
+    def author(self, value):
+        self.__author = value
