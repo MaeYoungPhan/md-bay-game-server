@@ -46,7 +46,7 @@ class BayItemView(ViewSet):
 
     @action(methods=['post'], detail=True)
     def find(self, request, pk):
-        """Post request for a user to sign up for an event"""
+        """Post request for a user to find an item"""
 
         gamer = Gamer.objects.get(user=request.auth.user)
         bay_item = BayItem.objects.get(pk=pk)
@@ -55,7 +55,7 @@ class BayItemView(ViewSet):
 
     @action(methods=['delete'], detail=True)
     def reset(self, request, pk):
-        """Delete request for a user to un-sign up for an event"""
+        """Delete request for a user to reset an item"""
 
         gamer = Gamer.objects.get(user=request.auth.user)
         bay_item = BayItem.objects.get(pk=pk)
