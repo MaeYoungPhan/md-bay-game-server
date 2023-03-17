@@ -50,7 +50,7 @@ class TripTests(APITestCase):
         """
 
         # Seed the database with a trip
-        trip = Trip()
+        trip = RecordOfTrip()
         trip.date = "2023-05-31"
         trip.name = "Memorial Day"
         trip.gamer_id = 1
@@ -76,7 +76,7 @@ class TripTests(APITestCase):
         """
         Ensure we can change an existing trip.
         """
-        trip = Trip()
+        trip = RecordOfTrip()
         trip.date = "2023-05-31"
         trip.name = "Memorial Day"
         trip.gamer_id = 1
@@ -109,7 +109,7 @@ class TripTests(APITestCase):
         """
         Ensure we can delete an existing trip.
         """
-        trip = Trip()
+        trip = RecordOfTrip()
         trip.date = "2023-05-31"
         trip.name = "Memorial Day"
         trip.gamer_id = 1
