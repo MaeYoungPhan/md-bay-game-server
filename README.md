@@ -4,8 +4,8 @@
 
 ## Before you begin
 
-This server is designed to be used with [The Maryland Bay Game Client Repo](https://github.com/MaeYoungPhan/MdBayGameReact)
-This server runs on localhost:8000
+* This server is designed to be used with [The Maryland Bay Game Client Repo](https://github.com/MaeYoungPhan/MdBayGameReact)
+* This server runs on localhost:8000
 
 ## Installation
 
