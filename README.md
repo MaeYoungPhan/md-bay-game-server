@@ -24,7 +24,7 @@ pipenv shell
 ```bash
 pipenv install
 ```
-4. Run the server
+4. Run the server using the following terminal command or use the debugger in your code editor.
 
 ```bash
 python manage.py runserver
