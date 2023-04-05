@@ -63,7 +63,7 @@ python3 manage.py test tests -v 1
 
 📚 Jo, Becky, and the [Talbot County Free Library](http://www.tcfl.org/) for finding the original activity book. Libraries are the best. Please support them. ♥️
 
-🐐 Coach Steve, Sydney Dickson, Dakota Lambert and my colleagues in Cohort 60 for being badass human beings and teaching us to be developers or whatever. 
+🐐 Coach Steve, Sydney Dickson, Dakota Lambert and my colleagues in Cohort 60 for being badass human beings and teaching us to be developers.
 
 ## Created By
 
