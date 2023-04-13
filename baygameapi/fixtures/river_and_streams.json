@@ -4,7 +4,9 @@
         "pk": 1,
         "fields": {
             "name": "Cox Creek",
-            "miles_to_bay": 5.3
+            "miles_to_bay": 5.3,
+            "latitude": "38.974791",
+            "longitude": "-76.302521"
         }
     },
     {
