@@ -29,6 +29,15 @@ pipenv install
 ```bash
 python manage.py runserver
 ```
+5. Seed the database*
+
+```bash
+./seed_database.sh
+```
+* Must be in virtual environment if you are not already after install
+```bash
+pipenv shell
+```
 
 6. Finish installation by following the instructions found [here](https://github.com/MaeYoungPhan/MdBayGameReact)
 
