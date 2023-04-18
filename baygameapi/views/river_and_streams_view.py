@@ -42,4 +42,4 @@ class RiverAndStreamSerializer(serializers.ModelSerializer):
     # Converts meta data requested to JSON stringified object using RiverAndStream as model
     class Meta: # configuration for serializer
         model = RiverAndStream # model to use
-        fields = ('id', 'name', 'miles_to_bay') # fields to include
+        fields = ('id', 'name', 'miles_to_bay', 'latitude', 'longitude') # fields to include

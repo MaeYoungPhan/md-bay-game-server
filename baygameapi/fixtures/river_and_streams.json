@@ -4,7 +4,10 @@
         "pk": 1,
         "fields": {
             "name": "Cox Creek",
-            "miles_to_bay": 5.3
+            "miles_to_bay": 5.3,
+            "latitude": 38.974791,
+            "longitude": -76.302521
+            
         }
     },
     {
@@ -12,7 +15,9 @@
         "pk": 2,
         "fields": {
             "name": "Piney Creek",
-            "miles_to_bay": 4.7
+            "miles_to_bay": 4.7,
+            "latitude": 38.972709,
+            "longitude": -76.258474
         }
     },
     {
@@ -20,7 +25,9 @@
         "pk": 3,
         "fields": {
             "name": "Kent Narrows",
-            "miles_to_bay": 4.8
+            "miles_to_bay": 4.8,
+            "latitude": 38.970874,
+            "longitude": -76.247144
         }
     },
     {
@@ -28,7 +35,9 @@
         "pk": 4,
         "fields": {
             "name": "Skipton Creek",
-            "miles_to_bay": 20.1
+            "miles_to_bay": 20.1,
+            "latitude": 38.886738,
+            "longitude": -76.061520
         }
     },
     {
@@ -36,7 +45,9 @@
         "pk": 5,
         "fields": {
             "name": "Choptank River",
-            "miles_to_bay": 14.1
+            "miles_to_bay": 14.1,
+            "latitude": 38.580134,
+            "longitude": -76.056463
         }
     },
     {
@@ -44,7 +55,9 @@
         "pk": 6,
         "fields": {
             "name": "Chicamacomico River",
-            "miles_to_bay": 43.2
+            "miles_to_bay": 43.2,
+            "latitude": 38.512934,
+            "longitude": -75.881830
         }
     },
     {
@@ -52,7 +65,9 @@
         "pk": 7,
         "fields": {
             "name": "Naticoke River",
-            "miles_to_bay": 23.3
+            "miles_to_bay": 23.3,
+            "latitude": 38.488526,
+            "longitude": -75.812783
         }
     },
     {
@@ -60,7 +75,9 @@
         "pk": 8,
         "fields": {
             "name": "Barren Creek",
-            "miles_to_bay": 22.5
+            "miles_to_bay": 22.5,
+            "latitude": 38.4576442,
+            "longitude": -75.8019694
         }
     },
     {
@@ -68,7 +85,9 @@
         "pk": 9,
         "fields": {
             "name": "Wicomico River",
-            "miles_to_bay": 30.8
+            "miles_to_bay": 30.8,
+            "latitude": 38.404265,
+            "longitude": -75.593200
         }
     },
     {
@@ -76,7 +95,9 @@
         "pk": 10,
         "fields": {
             "name": "Pocomoke River",
-            "miles_to_bay": 56.7
+            "miles_to_bay": 56.7,
+            "latitude": 38.384360,
+            "longitude": -75.326820
         }
     }
 ]
