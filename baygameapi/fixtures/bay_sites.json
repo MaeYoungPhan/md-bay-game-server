@@ -1,0 +1,73 @@
+[
+    {
+        "model": "baygameapi.bay_site",
+        "pk": 1,
+        "fields": {
+            "name": "Chesapeake Bay Bridge",
+            "miles_to_oc": 107,
+            "latitude": 38.974791,
+            "longitude": -76.302521
+            
+        }
+    },
+    {
+        "model": "baygameapi.bay_site",
+        "pk": 2,
+        "fields": {
+            "name": "Kent Narrows",
+            "miles_to_oc": 99,
+            "latitude": 38.972709,
+            "longitude": -76.258474
+        }
+    },
+    {
+        "model": "baygameapi.bay_site",
+        "pk": 3,
+        "fields": {
+            "name": "Choptank River Bridge",
+            "miles_to_oc": 62,
+            "latitude": 38.970874,
+            "longitude": -76.247144
+        }
+    },
+    {
+        "model": "baygameapi.bay_site",
+        "pk": 4,
+        "fields": {
+            "name": "Harriet Tubman Memorial Garden",
+            "miles_to_oc": 61,
+            "latitude": 38.886738,
+            "longitude": -76.061520
+        }
+    },
+    {
+        "model": "baygameapi.bay_site",
+        "pk": 5,
+        "fields": {
+            "name": "Naticoke River Bridge",
+            "miles_to_oc": 45,
+            "latitude": 38.580134,
+            "longitude": -76.056463
+        }
+    },
+    {
+        "model": "baygameapi.bay_site",
+        "pk": 6,
+        "fields": {
+            "name": "Farm",
+            "miles_to_oc": 37,
+            "latitude": 38.512934,
+            "longitude": -75.881830
+        }
+    },
+    {
+        "model": "baygameapi.bay_site",
+        "pk": 7,
+        "fields": {
+            "name": "Chesapeake Bay Watershed Boundary Sign",
+            "miles_to_oc": 9,
+            "latitude": 38.488526,
+            "longitude": -75.812783
+        }
+    }
+]
