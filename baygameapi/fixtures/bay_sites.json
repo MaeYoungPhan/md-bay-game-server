@@ -5,9 +5,10 @@
         "fields": {
             "name": "Chesapeake Bay Bridge",
             "miles_to_oc": 107,
-            "latitude": 38.974791,
-            "longitude": -76.302521
-            
+            "image": "",
+            "content": "",
+            "latitude": 38.9893229,
+            "longitude": -76.3857317
         }
     },
     {
@@ -16,8 +17,10 @@
         "fields": {
             "name": "Kent Narrows",
             "miles_to_oc": 99,
-            "latitude": 38.972709,
-            "longitude": -76.258474
+            "image": "",
+            "content": "",
+            "latitude": 38.973179,
+            "longitude": -76.2598825
         }
     },
     {
@@ -26,8 +29,10 @@
         "fields": {
             "name": "Choptank River Bridge",
             "miles_to_oc": 62,
-            "latitude": 38.970874,
-            "longitude": -76.247144
+            "image": "",
+            "content": "",
+            "latitude": 38.5789172,
+            "longitude": -76.0600164
         }
     },
     {
@@ -36,8 +41,10 @@
         "fields": {
             "name": "Harriet Tubman Memorial Garden",
             "miles_to_oc": 61,
-            "latitude": 38.886738,
-            "longitude": -76.061520
+            "image": "",
+            "content": "",
+            "latitude": 38.5595774,
+            "longitude": -76.0659919
         }
     },
     {
@@ -46,8 +53,10 @@
         "fields": {
             "name": "Naticoke River Bridge",
             "miles_to_oc": 45,
-            "latitude": 38.580134,
-            "longitude": -76.056463
+            "image": "",
+            "content": "",
+            "latitude": 38.4889583,
+            "longitude": -75.8156006
         }
     },
     {
@@ -56,8 +65,10 @@
         "fields": {
             "name": "Farm",
             "miles_to_oc": 37,
-            "latitude": 38.512934,
-            "longitude": -75.881830
+            "image": "",
+            "content": "",
+            "latitude": 38.4341861,
+            "longitude": -75.6775295
         }
     },
     {
@@ -66,8 +77,10 @@
         "fields": {
             "name": "Chesapeake Bay Watershed Boundary Sign",
             "miles_to_oc": 9,
-            "latitude": 38.488526,
-            "longitude": -75.812783
+            "image": "",
+            "content": "",
+            "latitude": 38.350363,
+            "longitude": -75.235518
         }
     }
 ]
