@@ -12,3 +12,4 @@ python3 manage.py loaddata bay_items
 python3 manage.py loaddata occasions
 python3 manage.py loaddata record_of_trips
 python3 manage.py loaddata river_and_streams
+python3 manage.py loaddata bay_sites

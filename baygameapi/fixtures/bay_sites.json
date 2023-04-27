@@ -1,0 +1,86 @@
+[
+    {
+        "model": "baygameapi.baysite",
+        "pk": 1,
+        "fields": {
+            "name": "Chesapeake Bay Bridge",
+            "miles_to_oc": 107,
+            "image": "",
+            "content": "",
+            "latitude": 38.9893229,
+            "longitude": -76.3857317
+        }
+    },
+    {
+        "model": "baygameapi.baysite",
+        "pk": 2,
+        "fields": {
+            "name": "Kent Narrows",
+            "miles_to_oc": 99,
+            "image": "",
+            "content": "",
+            "latitude": 38.973179,
+            "longitude": -76.2598825
+        }
+    },
+    {
+        "model": "baygameapi.baysite",
+        "pk": 3,
+        "fields": {
+            "name": "Choptank River Bridge",
+            "miles_to_oc": 62,
+            "image": "",
+            "content": "",
+            "latitude": 38.5789172,
+            "longitude": -76.0600164
+        }
+    },
+    {
+        "model": "baygameapi.baysite",
+        "pk": 4,
+        "fields": {
+            "name": "Harriet Tubman Memorial Garden",
+            "miles_to_oc": 61,
+            "image": "",
+            "content": "",
+            "latitude": 38.5595774,
+            "longitude": -76.0659919
+        }
+    },
+    {
+        "model": "baygameapi.baysite",
+        "pk": 5,
+        "fields": {
+            "name": "Naticoke River Bridge",
+            "miles_to_oc": 45,
+            "image": "",
+            "content": "",
+            "latitude": 38.4889583,
+            "longitude": -75.8156006
+        }
+    },
+    {
+        "model": "baygameapi.baysite",
+        "pk": 6,
+        "fields": {
+            "name": "Farm",
+            "miles_to_oc": 37,
+            "image": "",
+            "content": "",
+            "latitude": 38.4341861,
+            "longitude": -75.6775295
+        }
+    },
+    {
+        "model": "baygameapi.baysite",
+        "pk": 7,
+        "fields": {
+            "name": "Chesapeake Bay Watershed Boundary Sign",
+            "miles_to_oc": 9,
+            "image": "",
+            "content": "",
+            "latitude": 38.350363,
+            "longitude": -75.235518
+        }
+    }
+]
