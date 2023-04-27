@@ -1,6 +1,6 @@
 [
     {
-        "model": "baygameapi.bay_site",
+        "model": "baygameapi.baysite",
         "pk": 1,
         "fields": {
             "name": "Chesapeake Bay Bridge",
@@ -12,7 +12,7 @@
         }
     },
     {
-        "model": "baygameapi.bay_site",
+        "model": "baygameapi.baysite",
         "pk": 2,
         "fields": {
             "name": "Kent Narrows",
@@ -24,7 +24,7 @@
         }
     },
     {
-        "model": "baygameapi.bay_site",
+        "model": "baygameapi.baysite",
         "pk": 3,
         "fields": {
             "name": "Choptank River Bridge",
@@ -36,7 +36,7 @@
         }
     },
     {
-        "model": "baygameapi.bay_site",
+        "model": "baygameapi.baysite",
         "pk": 4,
         "fields": {
             "name": "Harriet Tubman Memorial Garden",
@@ -48,7 +48,7 @@
         }
     },
     {
-        "model": "baygameapi.bay_site",
+        "model": "baygameapi.baysite",
         "pk": 5,
         "fields": {
             "name": "Naticoke River Bridge",
@@ -60,7 +60,7 @@
         }
     },
     {
-        "model": "baygameapi.bay_site",
+        "model": "baygameapi.baysite",
         "pk": 6,
         "fields": {
             "name": "Farm",
@@ -72,7 +72,7 @@
         }
     },
     {
-        "model": "baygameapi.bay_site",
+        "model": "baygameapi.baysite",
         "pk": 7,
         "fields": {
             "name": "Chesapeake Bay Watershed Boundary Sign",
