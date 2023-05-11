@@ -5,6 +5,5 @@ class RiverAndStream(models.Model):
     miles_to_bay = models.DecimalField(max_digits=5, decimal_places=2)
     latitude = models.FloatField()
     longitude = models.FloatField()
-    
-    
-
+    image = models.CharField(max_length=250)
+    content = models.CharField(max_length=500)

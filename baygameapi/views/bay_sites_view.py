@@ -3,7 +3,7 @@ from django.http import HttpResponseServerError
 from rest_framework.viewsets import ViewSet
 from rest_framework.response import Response
 from rest_framework import serializers, status
-from baygameapi.models import BaySite, SiteSticker
+from baygameapi.models import BaySite, BaySiteItem
 
 
 class BaySiteView(ViewSet):
