@@ -1,0 +1,29 @@
+[
+    {
+        "model": "baygameapi.joke",
+        "pk": 1,
+        "fields": {
+            "title": "",
+            "question": "Why did the crab blush?!",
+            "answer": "Because it saw the Bay's bottom!"
+        }
+    },
+    {
+        "model": "baygameapi.joke",
+        "pk": 2,
+        "fields": {
+            "title": "",
+            "question": "What do you call a seagull that flies over the Bay?",
+            "answer": "A Bay-Gull (Bagel!)"
+        }
+    },
+    {
+        "model": "baygameapi.joke",
+        "pk": 3,
+        "fields": {
+            "title": "",
+            "question": "Why won't oysters share their pearls?",
+            "answer": "Because they're SHELLFISH!"
+        }
+    }
+]

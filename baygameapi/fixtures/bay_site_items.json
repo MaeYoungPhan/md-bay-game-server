@@ -1,0 +1,13 @@
+[
+    {
+        "model": "baygameapi.baysiteitem",
+        "pk": 1,
+        "fields": {
+            "name": "",
+            "bay_site": 1,
+            "description": "",
+            "default_img": "",
+            "found_img": ""
+        }
+    }
+]
